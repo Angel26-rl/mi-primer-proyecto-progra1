@@ -1,0 +1,5 @@
+1. Aprendí cómo es el flujo de trabajo con Git y GitHub, desde clonar un repositorio hasta realizar commits, crear ramas y fusionarlas.
+
+2. La experiencia fue buena aunque un poco confusa al principio. Al trabajar en ramas se evitan conflictos y, cuando ocurren, se pueden resolver manualmente editando el archivo.
+
+3. Git permite llevar un control de versiones, trabajar en equipo de forma ordenada y tener respaldo del proyecto en la nube.
