@@ -10,3 +10,7 @@ Nombre: Angel Geovanni Ramos López
 
 
 
+Aprendí a crear ramas y fusionarlas con main usando Git.
+
+
+
